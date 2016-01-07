@@ -1,6 +1,6 @@
 {
   "name": "object-to-human-string",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Converts objects into human readable strings",
   "main": "lib/index.js",
   "scripts": {
