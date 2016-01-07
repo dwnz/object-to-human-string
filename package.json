@@ -1,6 +1,6 @@
 {
   "name": "object-to-human-string",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts objects into human readable strings",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,8 @@
     "url": "https://github.com/dwnz/object-to-human-string/issues"
   },
   "homepage": "https://github.com/dwnz/object-to-human-string#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "nodeunit": "^0.9.1"
   }
 }
