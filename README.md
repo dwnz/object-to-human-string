@@ -1,5 +1,7 @@
 # object-to-human-string
 
+[![Circle CI](https://circleci.com/gh/dwnz/object-to-human-string.svg?style=svg)](https://circleci.com/gh/dwnz/object-to-human-string)
+
 	npm install object-to-human-string --save
 
 ## Using
