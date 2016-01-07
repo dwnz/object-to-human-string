@@ -1,6 +1,6 @@
 # object-to-human-string
 
-`npm install object-to-human-string --save`
+	npm install object-to-human-string --save
 
 ## Using
 
@@ -13,7 +13,7 @@
 
 ## Tests
 
-`npm test`
+	npm test
 
 ## Versions
 
